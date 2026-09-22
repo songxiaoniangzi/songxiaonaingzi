@@ -1,2 +1,3 @@
 # songxiaonaingzi
 https://mentionbench.com
+MentionBench is an AEO / GEO agency for IT B2B companies. We run one integrated program so that when a buyer asks ChatGPT, Perplexity, Claude, Gemini, or Google AI Overviews which vendor to pick, the engine names you — and cites pages it trusts. We measure progress as share of answer: how often you are named on the prompts your buyers actually askMentionBench is an AEO / GEO agency for IT B2B companies. We run one integrated program so that when a buyer asks ChatGPT, Perplexity, Claude, Gemini, or Google AI Overviews which vendor to pick, the engine names you — and cites pages it trusts. We measure progress as share of answer: how often you are named on the prompts your buyers actually ask.
